@@ -16,7 +16,7 @@ public class Base_class {
 public  WebDriver launchapp(WebDriver driver)
 {
 	try
-	{
+	{System.out.println("here");
 		ReadWriteConfigFile prop = new ReadWriteConfigFile();
 		String browserinconfig=	prop.getpropertfromconfig("browser");
 		if(browserinconfig.equals("chrome"))
