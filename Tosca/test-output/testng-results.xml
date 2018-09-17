@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching the url http://demowebshop.tricentis.com]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Register_link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked gender_female_rb]]>
+    </line>
+    <line>
+      <![CDATA[Entered value xyz for the field FirstName_tb]]>
+    </line>
+    <line>
+      <![CDATA[Entered value ymz for the field LastName_tb]]>
+    </line>
+    <line>
+      <![CDATA[Entered value xyzdg1@gmail.com for the field Email_tb]]>
+    </line>
+    <line>
+      <![CDATA[Entered value abcdefgh for the field Password_tb]]>
+    </line>
+    <line>
+      <![CDATA[Entered value abcdefgh for the field ConfirmPassword_tb]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13226" started-at="2018-09-17T03:05:44Z" finished-at="2018-09-17T03:05:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13226" started-at="2018-09-17T03:05:44Z" finished-at="2018-09-17T03:05:57Z">
+      <class name="test_cases.Test_cases">
+        <test-method status="PASS" signature="landing_testcases()[pri:0, instance:test_cases.Test_cases@6500df86]" name="landing_testcases" duration-ms="13192" started-at="2018-09-17T03:05:44Z" finished-at="2018-09-17T03:05:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the url http://demowebshop.tricentis.com]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Register_link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked gender_female_rb]]>
+            </line>
+            <line>
+              <![CDATA[Entered value xyz for the field FirstName_tb]]>
+            </line>
+            <line>
+              <![CDATA[Entered value ymz for the field LastName_tb]]>
+            </line>
+            <line>
+              <![CDATA[Entered value xyzdg1@gmail.com for the field Email_tb]]>
+            </line>
+            <line>
+              <![CDATA[Entered value abcdefgh for the field Password_tb]]>
+            </line>
+            <line>
+              <![CDATA[Entered value abcdefgh for the field ConfirmPassword_tb]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- landing_testcases -->
+      </class> <!-- test_cases.Test_cases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
